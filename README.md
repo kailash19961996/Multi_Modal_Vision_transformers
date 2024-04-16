@@ -46,7 +46,4 @@ The README outlines potential areas for future development and improvement, such
 - Optimizing the model for deployment on edge devices
 
 ## Contributing
-The project welcomes contributions from the community. The README provides guidelines for submitting bug reports, feature requests, and pull requests.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+The project welcomes contributions from the community.
