@@ -5,6 +5,8 @@ This project demonstrates a simple yet powerful Multimodal AI model based on Vis
 
 ![U_Transformer_Architecture_complete](https://github.com/kailash19961996/Multi_Modal_Vision_transformers/assets/123597753/4b6d297c-c938-49cd-9285-b2c5b385bb00)
 
+For full video : (https://youtu.be/GE4cgfvCaDk)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Model Architecture](#model-architecture)
